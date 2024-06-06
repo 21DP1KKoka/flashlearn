@@ -1,4 +1,4 @@
-# flashlearn
+# FlashLearn
 
 #### FlashLearn ir mācību vietne latviešu valodā, kur mācības notiek ar atmiņas kartītēm.
 
